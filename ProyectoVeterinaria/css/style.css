@@ -15,7 +15,7 @@ body {
 .nav-carrusel {
   position: relative;
   width: 100%;
-  height: 650px;
+  height: auto;
   overflow: hidden;
   display: flex;
   align-items: center;
